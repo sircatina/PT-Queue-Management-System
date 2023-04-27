@@ -1,0 +1,1869 @@
+
+Time: 1
+Waiting clients: 
+Task id: 41, arrivalTime: 2,serviceTime: 3
+Task id: 72, arrivalTime: 5,serviceTime: 7
+Task id: 3, arrivalTime: 5,serviceTime: 3
+Task id: 60, arrivalTime: 7,serviceTime: 7
+Task id: 14, arrivalTime: 7,serviceTime: 5
+Task id: 72, arrivalTime: 7,serviceTime: 7
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: closed
+Queque[2]: closed
+Queque[3]: closed
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 2
+Waiting clients: 
+Task id: 72, arrivalTime: 5,serviceTime: 7
+Task id: 3, arrivalTime: 5,serviceTime: 3
+Task id: 60, arrivalTime: 7,serviceTime: 7
+Task id: 14, arrivalTime: 7,serviceTime: 5
+Task id: 72, arrivalTime: 7,serviceTime: 7
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 41, arrivalTime: 2,serviceTime: 3
+]
+Queque[2]: closed
+Queque[3]: closed
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 3
+Waiting clients: 
+Task id: 72, arrivalTime: 5,serviceTime: 7
+Task id: 3, arrivalTime: 5,serviceTime: 3
+Task id: 60, arrivalTime: 7,serviceTime: 7
+Task id: 14, arrivalTime: 7,serviceTime: 5
+Task id: 72, arrivalTime: 7,serviceTime: 7
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 41, arrivalTime: 2,serviceTime: 2
+]
+Queque[2]: closed
+Queque[3]: closed
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 4
+Waiting clients: 
+Task id: 72, arrivalTime: 5,serviceTime: 7
+Task id: 3, arrivalTime: 5,serviceTime: 3
+Task id: 60, arrivalTime: 7,serviceTime: 7
+Task id: 14, arrivalTime: 7,serviceTime: 5
+Task id: 72, arrivalTime: 7,serviceTime: 7
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 41, arrivalTime: 2,serviceTime: 1
+]
+Queque[2]: closed
+Queque[3]: closed
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 5
+Waiting clients: 
+Task id: 60, arrivalTime: 7,serviceTime: 7
+Task id: 14, arrivalTime: 7,serviceTime: 5
+Task id: 72, arrivalTime: 7,serviceTime: 7
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 72, arrivalTime: 5,serviceTime: 7
+]
+Queque[2]: [Task id: 3, arrivalTime: 5,serviceTime: 3
+]
+Queque[3]: closed
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 6
+Waiting clients: 
+Task id: 60, arrivalTime: 7,serviceTime: 7
+Task id: 14, arrivalTime: 7,serviceTime: 5
+Task id: 72, arrivalTime: 7,serviceTime: 7
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 72, arrivalTime: 5,serviceTime: 6
+]
+Queque[2]: [Task id: 3, arrivalTime: 5,serviceTime: 2
+]
+Queque[3]: closed
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 7
+Waiting clients: 
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 72, arrivalTime: 5,serviceTime: 5
+]
+Queque[2]: [Task id: 3, arrivalTime: 5,serviceTime: 1
+]
+Queque[3]: [Task id: 60, arrivalTime: 7,serviceTime: 7
+]
+Queque[4]: [Task id: 14, arrivalTime: 7,serviceTime: 5
+]
+Queque[5]: [Task id: 72, arrivalTime: 7,serviceTime: 7
+]
+
+Time: 8
+Waiting clients: 
+Task id: 26, arrivalTime: 9,serviceTime: 3
+Task id: 64, arrivalTime: 9,serviceTime: 5
+Task id: 84, arrivalTime: 9,serviceTime: 7
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 72, arrivalTime: 5,serviceTime: 4
+]
+Queque[2]: closed
+Queque[3]: [Task id: 60, arrivalTime: 7,serviceTime: 6
+]
+Queque[4]: [Task id: 14, arrivalTime: 7,serviceTime: 4
+]
+Queque[5]: [Task id: 72, arrivalTime: 7,serviceTime: 6
+]
+
+Time: 9
+Waiting clients: 
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 72, arrivalTime: 5,serviceTime: 3
+, Task id: 64, arrivalTime: 9,serviceTime: 5
+]
+Queque[2]: [Task id: 26, arrivalTime: 9,serviceTime: 3
+, Task id: 84, arrivalTime: 9,serviceTime: 7
+]
+Queque[3]: [Task id: 60, arrivalTime: 7,serviceTime: 5
+]
+Queque[4]: [Task id: 14, arrivalTime: 7,serviceTime: 3
+]
+Queque[5]: [Task id: 72, arrivalTime: 7,serviceTime: 5
+]
+
+Time: 10
+Waiting clients: 
+Task id: 37, arrivalTime: 11,serviceTime: 7
+Task id: 16, arrivalTime: 11,serviceTime: 1
+Task id: 8, arrivalTime: 11,serviceTime: 1
+Task id: 76, arrivalTime: 11,serviceTime: 5
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 72, arrivalTime: 5,serviceTime: 2
+, Task id: 64, arrivalTime: 9,serviceTime: 5
+]
+Queque[2]: [Task id: 26, arrivalTime: 9,serviceTime: 2
+, Task id: 84, arrivalTime: 9,serviceTime: 7
+]
+Queque[3]: [Task id: 60, arrivalTime: 7,serviceTime: 4
+]
+Queque[4]: [Task id: 14, arrivalTime: 7,serviceTime: 2
+]
+Queque[5]: [Task id: 72, arrivalTime: 7,serviceTime: 4
+]
+
+Time: 11
+Waiting clients: 
+Task id: 25, arrivalTime: 12,serviceTime: 1
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 72, arrivalTime: 5,serviceTime: 1
+, Task id: 64, arrivalTime: 9,serviceTime: 5
+, Task id: 76, arrivalTime: 11,serviceTime: 5
+]
+Queque[2]: [Task id: 26, arrivalTime: 9,serviceTime: 1
+, Task id: 84, arrivalTime: 9,serviceTime: 7
+]
+Queque[3]: [Task id: 60, arrivalTime: 7,serviceTime: 3
+, Task id: 37, arrivalTime: 11,serviceTime: 7
+]
+Queque[4]: [Task id: 14, arrivalTime: 7,serviceTime: 1
+, Task id: 16, arrivalTime: 11,serviceTime: 1
+]
+Queque[5]: [Task id: 72, arrivalTime: 7,serviceTime: 3
+, Task id: 8, arrivalTime: 11,serviceTime: 1
+]
+
+Time: 12
+Waiting clients: 
+Task id: 51, arrivalTime: 13,serviceTime: 1
+Task id: 0, arrivalTime: 13,serviceTime: 7
+Task id: 4, arrivalTime: 13,serviceTime: 6
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 64, arrivalTime: 9,serviceTime: 5
+, Task id: 76, arrivalTime: 11,serviceTime: 5
+]
+Queque[2]: [Task id: 84, arrivalTime: 9,serviceTime: 7
+, Task id: 25, arrivalTime: 12,serviceTime: 1
+]
+Queque[3]: [Task id: 60, arrivalTime: 7,serviceTime: 2
+, Task id: 37, arrivalTime: 11,serviceTime: 7
+]
+Queque[4]: [Task id: 16, arrivalTime: 11,serviceTime: 1
+]
+Queque[5]: [Task id: 72, arrivalTime: 7,serviceTime: 2
+, Task id: 8, arrivalTime: 11,serviceTime: 1
+]
+
+Time: 13
+Waiting clients: 
+Task id: 13, arrivalTime: 14,serviceTime: 5
+Task id: 95, arrivalTime: 14,serviceTime: 2
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 64, arrivalTime: 9,serviceTime: 4
+, Task id: 76, arrivalTime: 11,serviceTime: 5
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+]
+Queque[2]: [Task id: 84, arrivalTime: 9,serviceTime: 6
+, Task id: 25, arrivalTime: 12,serviceTime: 1
+]
+Queque[3]: [Task id: 60, arrivalTime: 7,serviceTime: 1
+, Task id: 37, arrivalTime: 11,serviceTime: 7
+]
+Queque[4]: [Task id: 51, arrivalTime: 13,serviceTime: 1
+, Task id: 0, arrivalTime: 13,serviceTime: 7
+]
+Queque[5]: [Task id: 72, arrivalTime: 7,serviceTime: 1
+, Task id: 8, arrivalTime: 11,serviceTime: 1
+]
+
+Time: 14
+Waiting clients: 
+Task id: 39, arrivalTime: 15,serviceTime: 6
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 64, arrivalTime: 9,serviceTime: 3
+, Task id: 76, arrivalTime: 11,serviceTime: 5
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+]
+Queque[2]: [Task id: 84, arrivalTime: 9,serviceTime: 5
+, Task id: 25, arrivalTime: 12,serviceTime: 1
+]
+Queque[3]: [Task id: 37, arrivalTime: 11,serviceTime: 7
+, Task id: 13, arrivalTime: 14,serviceTime: 5
+]
+Queque[4]: [Task id: 0, arrivalTime: 13,serviceTime: 7
+, Task id: 95, arrivalTime: 14,serviceTime: 2
+]
+Queque[5]: [Task id: 8, arrivalTime: 11,serviceTime: 1
+]
+
+Time: 15
+Waiting clients: 
+Task id: 21, arrivalTime: 16,serviceTime: 4
+Task id: 28, arrivalTime: 16,serviceTime: 6
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 64, arrivalTime: 9,serviceTime: 2
+, Task id: 76, arrivalTime: 11,serviceTime: 5
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+]
+Queque[2]: [Task id: 84, arrivalTime: 9,serviceTime: 4
+, Task id: 25, arrivalTime: 12,serviceTime: 1
+]
+Queque[3]: [Task id: 37, arrivalTime: 11,serviceTime: 6
+, Task id: 13, arrivalTime: 14,serviceTime: 5
+]
+Queque[4]: [Task id: 0, arrivalTime: 13,serviceTime: 6
+, Task id: 95, arrivalTime: 14,serviceTime: 2
+]
+Queque[5]: [Task id: 39, arrivalTime: 15,serviceTime: 6
+]
+
+Time: 16
+Waiting clients: 
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 64, arrivalTime: 9,serviceTime: 1
+, Task id: 76, arrivalTime: 11,serviceTime: 5
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+]
+Queque[2]: [Task id: 84, arrivalTime: 9,serviceTime: 3
+, Task id: 25, arrivalTime: 12,serviceTime: 1
+, Task id: 28, arrivalTime: 16,serviceTime: 6
+]
+Queque[3]: [Task id: 37, arrivalTime: 11,serviceTime: 5
+, Task id: 13, arrivalTime: 14,serviceTime: 5
+]
+Queque[4]: [Task id: 0, arrivalTime: 13,serviceTime: 5
+, Task id: 95, arrivalTime: 14,serviceTime: 2
+]
+Queque[5]: [Task id: 39, arrivalTime: 15,serviceTime: 5
+, Task id: 21, arrivalTime: 16,serviceTime: 4
+]
+
+Time: 17
+Waiting clients: 
+Task id: 12, arrivalTime: 18,serviceTime: 1
+Task id: 12, arrivalTime: 18,serviceTime: 2
+Task id: 18, arrivalTime: 18,serviceTime: 1
+Task id: 6, arrivalTime: 18,serviceTime: 3
+Task id: 97, arrivalTime: 18,serviceTime: 7
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 76, arrivalTime: 11,serviceTime: 5
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+]
+Queque[2]: [Task id: 84, arrivalTime: 9,serviceTime: 2
+, Task id: 25, arrivalTime: 12,serviceTime: 1
+, Task id: 28, arrivalTime: 16,serviceTime: 6
+]
+Queque[3]: [Task id: 37, arrivalTime: 11,serviceTime: 4
+, Task id: 13, arrivalTime: 14,serviceTime: 5
+]
+Queque[4]: [Task id: 0, arrivalTime: 13,serviceTime: 4
+, Task id: 95, arrivalTime: 14,serviceTime: 2
+]
+Queque[5]: [Task id: 39, arrivalTime: 15,serviceTime: 4
+, Task id: 21, arrivalTime: 16,serviceTime: 4
+]
+
+Time: 18
+Waiting clients: 
+Task id: 75, arrivalTime: 19,serviceTime: 7
+Task id: 7, arrivalTime: 19,serviceTime: 6
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 76, arrivalTime: 11,serviceTime: 4
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+]
+Queque[2]: [Task id: 84, arrivalTime: 9,serviceTime: 1
+, Task id: 25, arrivalTime: 12,serviceTime: 1
+, Task id: 28, arrivalTime: 16,serviceTime: 6
+]
+Queque[3]: [Task id: 37, arrivalTime: 11,serviceTime: 3
+, Task id: 13, arrivalTime: 14,serviceTime: 5
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+]
+Queque[4]: [Task id: 0, arrivalTime: 13,serviceTime: 3
+, Task id: 95, arrivalTime: 14,serviceTime: 2
+, Task id: 18, arrivalTime: 18,serviceTime: 1
+]
+Queque[5]: [Task id: 39, arrivalTime: 15,serviceTime: 3
+, Task id: 21, arrivalTime: 16,serviceTime: 4
+, Task id: 6, arrivalTime: 18,serviceTime: 3
+]
+
+Time: 19
+Waiting clients: 
+Task id: 72, arrivalTime: 20,serviceTime: 7
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 76, arrivalTime: 11,serviceTime: 3
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+]
+Queque[2]: [Task id: 25, arrivalTime: 12,serviceTime: 1
+, Task id: 28, arrivalTime: 16,serviceTime: 6
+, Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+]
+Queque[3]: [Task id: 37, arrivalTime: 11,serviceTime: 2
+, Task id: 13, arrivalTime: 14,serviceTime: 5
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+]
+Queque[4]: [Task id: 0, arrivalTime: 13,serviceTime: 2
+, Task id: 95, arrivalTime: 14,serviceTime: 2
+, Task id: 18, arrivalTime: 18,serviceTime: 1
+]
+Queque[5]: [Task id: 39, arrivalTime: 15,serviceTime: 2
+, Task id: 21, arrivalTime: 16,serviceTime: 4
+, Task id: 6, arrivalTime: 18,serviceTime: 3
+]
+
+Time: 20
+Waiting clients: 
+Task id: 81, arrivalTime: 21,serviceTime: 6
+Task id: 96, arrivalTime: 21,serviceTime: 4
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 76, arrivalTime: 11,serviceTime: 2
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+]
+Queque[2]: [Task id: 28, arrivalTime: 16,serviceTime: 6
+, Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+]
+Queque[3]: [Task id: 37, arrivalTime: 11,serviceTime: 1
+, Task id: 13, arrivalTime: 14,serviceTime: 5
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+]
+Queque[4]: [Task id: 0, arrivalTime: 13,serviceTime: 1
+, Task id: 95, arrivalTime: 14,serviceTime: 2
+, Task id: 18, arrivalTime: 18,serviceTime: 1
+]
+Queque[5]: [Task id: 39, arrivalTime: 15,serviceTime: 1
+, Task id: 21, arrivalTime: 16,serviceTime: 4
+, Task id: 6, arrivalTime: 18,serviceTime: 3
+]
+
+Time: 21
+Waiting clients: 
+Task id: 60, arrivalTime: 22,serviceTime: 6
+Task id: 15, arrivalTime: 22,serviceTime: 4
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 76, arrivalTime: 11,serviceTime: 1
+, Task id: 4, arrivalTime: 13,serviceTime: 6
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+]
+Queque[2]: [Task id: 28, arrivalTime: 16,serviceTime: 5
+, Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+]
+Queque[3]: [Task id: 13, arrivalTime: 14,serviceTime: 5
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+, Task id: 81, arrivalTime: 21,serviceTime: 6
+]
+Queque[4]: [Task id: 95, arrivalTime: 14,serviceTime: 2
+, Task id: 18, arrivalTime: 18,serviceTime: 1
+, Task id: 96, arrivalTime: 21,serviceTime: 4
+]
+Queque[5]: [Task id: 21, arrivalTime: 16,serviceTime: 4
+, Task id: 6, arrivalTime: 18,serviceTime: 3
+]
+
+Time: 22
+Waiting clients: 
+Task id: 29, arrivalTime: 23,serviceTime: 4
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 4, arrivalTime: 13,serviceTime: 6
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+]
+Queque[2]: [Task id: 28, arrivalTime: 16,serviceTime: 4
+, Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+]
+Queque[3]: [Task id: 13, arrivalTime: 14,serviceTime: 4
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+, Task id: 81, arrivalTime: 21,serviceTime: 6
+]
+Queque[4]: [Task id: 95, arrivalTime: 14,serviceTime: 1
+, Task id: 18, arrivalTime: 18,serviceTime: 1
+, Task id: 96, arrivalTime: 21,serviceTime: 4
+]
+Queque[5]: [Task id: 21, arrivalTime: 16,serviceTime: 3
+, Task id: 6, arrivalTime: 18,serviceTime: 3
+, Task id: 60, arrivalTime: 22,serviceTime: 6
+]
+
+Time: 23
+Waiting clients: 
+Task id: 71, arrivalTime: 24,serviceTime: 1
+Task id: 20, arrivalTime: 24,serviceTime: 3
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 4, arrivalTime: 13,serviceTime: 5
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+]
+Queque[2]: [Task id: 28, arrivalTime: 16,serviceTime: 3
+, Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+]
+Queque[3]: [Task id: 13, arrivalTime: 14,serviceTime: 3
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+, Task id: 81, arrivalTime: 21,serviceTime: 6
+]
+Queque[4]: [Task id: 18, arrivalTime: 18,serviceTime: 1
+, Task id: 96, arrivalTime: 21,serviceTime: 4
+, Task id: 29, arrivalTime: 23,serviceTime: 4
+]
+Queque[5]: [Task id: 21, arrivalTime: 16,serviceTime: 2
+, Task id: 6, arrivalTime: 18,serviceTime: 3
+, Task id: 60, arrivalTime: 22,serviceTime: 6
+]
+
+Time: 24
+Waiting clients: 
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 4, arrivalTime: 13,serviceTime: 4
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+]
+Queque[2]: [Task id: 28, arrivalTime: 16,serviceTime: 2
+, Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+]
+Queque[3]: [Task id: 13, arrivalTime: 14,serviceTime: 2
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+, Task id: 81, arrivalTime: 21,serviceTime: 6
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+]
+Queque[4]: [Task id: 96, arrivalTime: 21,serviceTime: 4
+, Task id: 29, arrivalTime: 23,serviceTime: 4
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+]
+Queque[5]: [Task id: 21, arrivalTime: 16,serviceTime: 1
+, Task id: 6, arrivalTime: 18,serviceTime: 3
+, Task id: 60, arrivalTime: 22,serviceTime: 6
+]
+
+Time: 25
+Waiting clients: 
+Task id: 98, arrivalTime: 26,serviceTime: 5
+Task id: 41, arrivalTime: 26,serviceTime: 5
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 4, arrivalTime: 13,serviceTime: 3
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+]
+Queque[2]: [Task id: 28, arrivalTime: 16,serviceTime: 1
+, Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+]
+Queque[3]: [Task id: 13, arrivalTime: 14,serviceTime: 1
+, Task id: 12, arrivalTime: 18,serviceTime: 2
+, Task id: 81, arrivalTime: 21,serviceTime: 6
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+]
+Queque[4]: [Task id: 96, arrivalTime: 21,serviceTime: 3
+, Task id: 29, arrivalTime: 23,serviceTime: 4
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+]
+Queque[5]: [Task id: 6, arrivalTime: 18,serviceTime: 3
+, Task id: 60, arrivalTime: 22,serviceTime: 6
+]
+
+Time: 26
+Waiting clients: 
+Task id: 45, arrivalTime: 27,serviceTime: 6
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 4, arrivalTime: 13,serviceTime: 2
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+]
+Queque[2]: [Task id: 75, arrivalTime: 19,serviceTime: 7
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 12, arrivalTime: 18,serviceTime: 2
+, Task id: 81, arrivalTime: 21,serviceTime: 6
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+]
+Queque[4]: [Task id: 96, arrivalTime: 21,serviceTime: 2
+, Task id: 29, arrivalTime: 23,serviceTime: 4
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+]
+Queque[5]: [Task id: 6, arrivalTime: 18,serviceTime: 2
+, Task id: 60, arrivalTime: 22,serviceTime: 6
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+]
+
+Time: 27
+Waiting clients: 
+Task id: 3, arrivalTime: 28,serviceTime: 2
+Task id: 88, arrivalTime: 28,serviceTime: 5
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 4, arrivalTime: 13,serviceTime: 1
+, Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+]
+Queque[2]: [Task id: 75, arrivalTime: 19,serviceTime: 6
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 81, arrivalTime: 21,serviceTime: 6
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+]
+Queque[4]: [Task id: 96, arrivalTime: 21,serviceTime: 1
+, Task id: 29, arrivalTime: 23,serviceTime: 4
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+]
+Queque[5]: [Task id: 6, arrivalTime: 18,serviceTime: 1
+, Task id: 60, arrivalTime: 22,serviceTime: 6
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+]
+
+Time: 28
+Waiting clients: 
+Task id: 9, arrivalTime: 29,serviceTime: 4
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 12, arrivalTime: 18,serviceTime: 1
+, Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+]
+Queque[2]: [Task id: 75, arrivalTime: 19,serviceTime: 5
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 81, arrivalTime: 21,serviceTime: 6
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+]
+Queque[4]: [Task id: 29, arrivalTime: 23,serviceTime: 4
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+, Task id: 3, arrivalTime: 28,serviceTime: 2
+]
+Queque[5]: [Task id: 60, arrivalTime: 22,serviceTime: 6
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 29
+Waiting clients: 
+Task id: 69, arrivalTime: 30,serviceTime: 6
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 97, arrivalTime: 18,serviceTime: 7
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+]
+Queque[2]: [Task id: 75, arrivalTime: 19,serviceTime: 4
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 81, arrivalTime: 21,serviceTime: 5
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+]
+Queque[4]: [Task id: 29, arrivalTime: 23,serviceTime: 3
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+, Task id: 3, arrivalTime: 28,serviceTime: 2
+]
+Queque[5]: [Task id: 60, arrivalTime: 22,serviceTime: 5
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 30
+Waiting clients: 
+Task id: 94, arrivalTime: 31,serviceTime: 5
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 97, arrivalTime: 18,serviceTime: 6
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 75, arrivalTime: 19,serviceTime: 3
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 81, arrivalTime: 21,serviceTime: 4
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+]
+Queque[4]: [Task id: 29, arrivalTime: 23,serviceTime: 2
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+, Task id: 3, arrivalTime: 28,serviceTime: 2
+]
+Queque[5]: [Task id: 60, arrivalTime: 22,serviceTime: 4
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 31
+Waiting clients: 
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 97, arrivalTime: 18,serviceTime: 5
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 75, arrivalTime: 19,serviceTime: 2
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 81, arrivalTime: 21,serviceTime: 3
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+]
+Queque[4]: [Task id: 29, arrivalTime: 23,serviceTime: 1
+, Task id: 71, arrivalTime: 24,serviceTime: 1
+, Task id: 3, arrivalTime: 28,serviceTime: 2
+]
+Queque[5]: [Task id: 60, arrivalTime: 22,serviceTime: 3
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 32
+Waiting clients: 
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 97, arrivalTime: 18,serviceTime: 4
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 75, arrivalTime: 19,serviceTime: 1
+, Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 81, arrivalTime: 21,serviceTime: 2
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+]
+Queque[4]: [Task id: 71, arrivalTime: 24,serviceTime: 1
+, Task id: 3, arrivalTime: 28,serviceTime: 2
+]
+Queque[5]: [Task id: 60, arrivalTime: 22,serviceTime: 2
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 33
+Waiting clients: 
+Task id: 82, arrivalTime: 34,serviceTime: 4
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 97, arrivalTime: 18,serviceTime: 3
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 7, arrivalTime: 19,serviceTime: 6
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 81, arrivalTime: 21,serviceTime: 1
+, Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+]
+Queque[4]: [Task id: 3, arrivalTime: 28,serviceTime: 2
+]
+Queque[5]: [Task id: 60, arrivalTime: 22,serviceTime: 1
+, Task id: 98, arrivalTime: 26,serviceTime: 5
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 34
+Waiting clients: 
+Task id: 58, arrivalTime: 35,serviceTime: 1
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 97, arrivalTime: 18,serviceTime: 2
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 7, arrivalTime: 19,serviceTime: 5
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 20, arrivalTime: 24,serviceTime: 3
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+]
+Queque[4]: [Task id: 3, arrivalTime: 28,serviceTime: 1
+, Task id: 82, arrivalTime: 34,serviceTime: 4
+]
+Queque[5]: [Task id: 98, arrivalTime: 26,serviceTime: 5
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 35
+Waiting clients: 
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 97, arrivalTime: 18,serviceTime: 1
+, Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 7, arrivalTime: 19,serviceTime: 4
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 20, arrivalTime: 24,serviceTime: 2
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+]
+Queque[4]: [Task id: 82, arrivalTime: 34,serviceTime: 4
+, Task id: 58, arrivalTime: 35,serviceTime: 1
+]
+Queque[5]: [Task id: 98, arrivalTime: 26,serviceTime: 4
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 36
+Waiting clients: 
+Task id: 94, arrivalTime: 37,serviceTime: 2
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 15, arrivalTime: 22,serviceTime: 4
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 7, arrivalTime: 19,serviceTime: 3
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 20, arrivalTime: 24,serviceTime: 1
+, Task id: 45, arrivalTime: 27,serviceTime: 6
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+]
+Queque[4]: [Task id: 82, arrivalTime: 34,serviceTime: 3
+, Task id: 58, arrivalTime: 35,serviceTime: 1
+]
+Queque[5]: [Task id: 98, arrivalTime: 26,serviceTime: 3
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 37
+Waiting clients: 
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 15, arrivalTime: 22,serviceTime: 3
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 7, arrivalTime: 19,serviceTime: 2
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 45, arrivalTime: 27,serviceTime: 6
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 82, arrivalTime: 34,serviceTime: 2
+, Task id: 58, arrivalTime: 35,serviceTime: 1
+]
+Queque[5]: [Task id: 98, arrivalTime: 26,serviceTime: 2
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 38
+Waiting clients: 
+Task id: 55, arrivalTime: 39,serviceTime: 7
+Task id: 84, arrivalTime: 39,serviceTime: 2
+
+Queque[1]: [Task id: 15, arrivalTime: 22,serviceTime: 2
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 7, arrivalTime: 19,serviceTime: 1
+, Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 45, arrivalTime: 27,serviceTime: 5
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 82, arrivalTime: 34,serviceTime: 1
+, Task id: 58, arrivalTime: 35,serviceTime: 1
+]
+Queque[5]: [Task id: 98, arrivalTime: 26,serviceTime: 1
+, Task id: 88, arrivalTime: 28,serviceTime: 5
+]
+
+Time: 39
+Waiting clients: 
+
+Queque[1]: [Task id: 15, arrivalTime: 22,serviceTime: 1
+, Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 72, arrivalTime: 20,serviceTime: 7
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 45, arrivalTime: 27,serviceTime: 4
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 58, arrivalTime: 35,serviceTime: 1
+, Task id: 55, arrivalTime: 39,serviceTime: 7
+]
+Queque[5]: [Task id: 88, arrivalTime: 28,serviceTime: 5
+, Task id: 84, arrivalTime: 39,serviceTime: 2
+]
+
+Time: 40
+Waiting clients: 
+
+Queque[1]: [Task id: 9, arrivalTime: 29,serviceTime: 4
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 72, arrivalTime: 20,serviceTime: 6
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 45, arrivalTime: 27,serviceTime: 3
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 55, arrivalTime: 39,serviceTime: 7
+]
+Queque[5]: [Task id: 88, arrivalTime: 28,serviceTime: 4
+, Task id: 84, arrivalTime: 39,serviceTime: 2
+]
+
+Time: 41
+Waiting clients: 
+
+Queque[1]: [Task id: 9, arrivalTime: 29,serviceTime: 3
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 72, arrivalTime: 20,serviceTime: 5
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 45, arrivalTime: 27,serviceTime: 2
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 55, arrivalTime: 39,serviceTime: 6
+]
+Queque[5]: [Task id: 88, arrivalTime: 28,serviceTime: 3
+, Task id: 84, arrivalTime: 39,serviceTime: 2
+]
+
+Time: 42
+Waiting clients: 
+
+Queque[1]: [Task id: 9, arrivalTime: 29,serviceTime: 2
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 72, arrivalTime: 20,serviceTime: 4
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 45, arrivalTime: 27,serviceTime: 1
+, Task id: 94, arrivalTime: 31,serviceTime: 5
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 55, arrivalTime: 39,serviceTime: 5
+]
+Queque[5]: [Task id: 88, arrivalTime: 28,serviceTime: 2
+, Task id: 84, arrivalTime: 39,serviceTime: 2
+]
+
+Time: 43
+Waiting clients: 
+
+Queque[1]: [Task id: 9, arrivalTime: 29,serviceTime: 1
+, Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 72, arrivalTime: 20,serviceTime: 3
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 94, arrivalTime: 31,serviceTime: 5
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 55, arrivalTime: 39,serviceTime: 4
+]
+Queque[5]: [Task id: 88, arrivalTime: 28,serviceTime: 1
+, Task id: 84, arrivalTime: 39,serviceTime: 2
+]
+
+Time: 44
+Waiting clients: 
+
+Queque[1]: [Task id: 69, arrivalTime: 30,serviceTime: 6
+]
+Queque[2]: [Task id: 72, arrivalTime: 20,serviceTime: 2
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 94, arrivalTime: 31,serviceTime: 4
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 55, arrivalTime: 39,serviceTime: 3
+]
+Queque[5]: [Task id: 84, arrivalTime: 39,serviceTime: 2
+]
+
+Time: 45
+Waiting clients: 
+
+Queque[1]: [Task id: 69, arrivalTime: 30,serviceTime: 5
+]
+Queque[2]: [Task id: 72, arrivalTime: 20,serviceTime: 1
+, Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 94, arrivalTime: 31,serviceTime: 3
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 55, arrivalTime: 39,serviceTime: 2
+]
+Queque[5]: [Task id: 84, arrivalTime: 39,serviceTime: 1
+]
+
+Time: 46
+Waiting clients: 
+
+Queque[1]: [Task id: 69, arrivalTime: 30,serviceTime: 4
+]
+Queque[2]: [Task id: 41, arrivalTime: 26,serviceTime: 5
+]
+Queque[3]: [Task id: 94, arrivalTime: 31,serviceTime: 2
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: [Task id: 55, arrivalTime: 39,serviceTime: 1
+]
+Queque[5]: closed
+
+Time: 47
+Waiting clients: 
+
+Queque[1]: [Task id: 69, arrivalTime: 30,serviceTime: 3
+]
+Queque[2]: [Task id: 41, arrivalTime: 26,serviceTime: 4
+]
+Queque[3]: [Task id: 94, arrivalTime: 31,serviceTime: 1
+, Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 48
+Waiting clients: 
+
+Queque[1]: [Task id: 69, arrivalTime: 30,serviceTime: 2
+]
+Queque[2]: [Task id: 41, arrivalTime: 26,serviceTime: 3
+]
+Queque[3]: [Task id: 94, arrivalTime: 37,serviceTime: 2
+]
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 49
+Waiting clients: 
+
+Queque[1]: [Task id: 69, arrivalTime: 30,serviceTime: 1
+]
+Queque[2]: [Task id: 41, arrivalTime: 26,serviceTime: 2
+]
+Queque[3]: [Task id: 94, arrivalTime: 37,serviceTime: 1
+]
+Queque[4]: closed
+Queque[5]: closed
+
+Time: 50
+Waiting clients: 
+
+Queque[1]: closed
+Queque[2]: [Task id: 41, arrivalTime: 26,serviceTime: 1
+]
+Queque[3]: closed
+Queque[4]: closed
+Queque[5]: closed
+Average service time: 4.3
+Average waiting time: 38.0
+Peak hour time: 24
+
